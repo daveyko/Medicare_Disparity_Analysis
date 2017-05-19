@@ -15,20 +15,20 @@ The analysis was done by querying the public Medicare Dataset available on Googl
 
 Prerequisites: 
 
-pandas library (data structure and analysis tools): 
+pandas library (data structure and analysis tools):
 
-pip install pandas
+install pandas library 
 
 googlebigquery (data source): 
 
-from pandas.io import gbq
+'from pandas.io import gbq'
 
 plotly (visualizations library): 
 
-pip install plotly
+install plotly
 
 cufflinks (interactive charting on plotly with pandas): 
 
-pip install cufflinks
+install cufflinks
 
 
