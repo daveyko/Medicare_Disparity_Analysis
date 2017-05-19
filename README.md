@@ -31,4 +31,8 @@ cufflinks (interactive charting on plotly with pandas):
 
 install cufflinks
 
+to view plotly charts: 
+
+https://nbviewer.jupyter.org/github/daveyko/Medicare_Disparity_Analysis/blob/branch1/google_bigquery.ipynb
+
 
